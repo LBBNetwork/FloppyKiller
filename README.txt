@@ -6,3 +6,4 @@ Certified working in QuickBASIC 4.5; may also work in later versions and Win32 p
 Licensed under the Pirate License.
 
 Binaries available at http://www.beige-box.com/fk/floppykiller.zip
+Learn more about Floppy Killer at http://www.beige-box.com/?p=248
